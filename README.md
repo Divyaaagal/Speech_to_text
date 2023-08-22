@@ -11,7 +11,7 @@ pip install SpeechRecognition
 
 ```
 ```python
-pip install pyaudio
+pip install PyAudio
 
 ```
 ```python
